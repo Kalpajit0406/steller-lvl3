@@ -1,0 +1,7 @@
+# Ignore Rust build targets
+/target/
+/.cargo/
+
+# Ignore Rust smart contracts source and testing folders
+/contracts/
+/tests/
